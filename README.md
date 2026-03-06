@@ -1,2 +1,6 @@
 # AI Lab 5
-Implementing Graph Algorithms (Part-2) (A*)
+Artificial Intelligence Lab (CSL 411) 
+Student Name: Hasan Zahid 
+Enrollment #: 01-131232-028 
+Teacher: Engr. Saad Mazhar Khan 
+Dept of SE, BUIC
